@@ -1,6 +1,6 @@
 # Top Down Parsing with Brute Force & Recursive Descent Parsing
 
-The matrix will automatically filled the outer border incrementally starting from designated point. This repository is archived from the 5th-semester group project on the compilation techniques course, Sriwijaya University.
+Parsing a string with brute force & recursive descent parsing. The program will detect wether the string accepted according to the pre-determined rules. This repository is archived from the 5th-semester group project on the compilation techniques course, Sriwijaya University.
 
 ## Members:
 
